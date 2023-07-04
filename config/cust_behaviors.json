@@ -6,5 +6,21 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&lt LOWER SPACE2",
+		"name": "&lt LOWER SPACE2",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&lt 3 ENTER",
+		"name": "&lt 3 ENTER",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
