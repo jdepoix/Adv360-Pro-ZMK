@@ -22,5 +22,21 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&ltA",
+		"name": "&ltA",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&mt LC(LA(LCMD)) ENTER",
+		"name": "&mt LC(LA(LCMD)) ENTER",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
